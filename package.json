@@ -30,7 +30,7 @@
     "core-js": "^2.5.4",
     "jquery": "^3.3.1",
     "jquery-snowfall": "^1.7.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "ngx-bootstrap": "^3.0.1",
     "ngx-spinner": "^6.1.2",
     "rxjs": "^6.0.0",
